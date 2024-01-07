@@ -1,0 +1,3 @@
+interface iDataPelanggan {
+    void inputCustomerData();
+}
